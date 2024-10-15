@@ -1,5 +1,0 @@
-const greatestOfTwoNums = (a,b) => {
-    console.log(Math.max(a,b));
-}
-
-greatestOfTwoNums(14,7);
